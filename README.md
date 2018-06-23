@@ -1,16 +1,14 @@
-# IBM Proof of Technology - Watson Studio
+Use IBM’s Watson Studio to create machine learning models and applications. Participants will be led through up to 5 labs (time permitting). Lab-1, Lab-2, Lab-3, and Lab-4 all use the Titanic data set, a common one used in Kaggle competitions. Lab-5 will use Watson Studio's Neural Network designer and Experiment Builder to build, train, and deploy a neural network model.  
 
-## Description:
+1. [Lab-1](https://github.com/bleonardb3/WM/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
 
-Use IBM’s  Watson Studio and IBM cloud services to create a working cloud-based application from start to finish in Labs-1 and Lab-2.   Use Watson Studio's Neural Network designer and Experiment Builder to build, train, and deploy a neural network model in Lab-3. Lab-4 will offer a choice of labs that explore additional features of Watson Studio.  
+1. [Lab-2](https://github.com/bleonardb3/WM/tree/master/Lab-2) - The second lab will guide participants in using the Watson Studio SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.
 
-1. [Lab-1](Lab-1) - The first lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to create categorical predictions using pyspark and a supervised learning model. The model will be saved into a model repository using Watson Machine Learning APIs. 
+1. [Lab-3](https://github.com/bleonardb3/WM/tree/master/Lab-3) - The third lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.  
 
-1. [Lab-2](Lab-2) - The second lab will guide participants in examining an R notebook and Shiny UI in Watson Studio using RStudio. It will rely on the output results from Lab-1.
+1. [Lab-4](Lab-4) - The fourth lab features the Data Refinery tool a fully managed self-service data preparation facility. 
 
-1. [Lab-3](Lab-3) - The third lab will use IBM's Neural Network designer and Experiment builder to build and train a simple Convolutional Neural Network. We will use the well-known MNIST dataset for training, test, and validation [MNIST](http://yann.lecun.com/exdb/mnist/)
-
-1. [Lab-4](Lab-4) - Time permitting there will be three labs to choose from for Lab 4. The first one features Watson Machine Learning, a point and click capability to build a machine learning model and deploy it. The second lab features the SPSS Modeler - a visual programming tool to create a machine learning pipeline. The third lab features the Data Refinery tool a fully managed self-service data preparation facility. 
+1. [Lab-5](Lab-5) - The fifth lab will use IBM's Neural Network designer and Experiment builder to build and train a simple Convolutional Neural Network. We will use the well-known MNIST dataset for training, test, and validation [MNIST](http://yann.lecun.com/exdb/mnist/)
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
