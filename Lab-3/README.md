@@ -39,5 +39,5 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Follow the instructions in the notebook.
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Lab-1/images/DSX-ML-Lab-1.PNG"/>
+> <img src="https://github.com/bleonardb3/NS/blob/master/Lab-3/images/NotebookIntro.png"/>
 
