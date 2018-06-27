@@ -4,13 +4,13 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use IBM's Watson Studio to create a Jupyter IPython notebook to examine the principles of Machine Learning using the Titanic dataset.   You will build a model based upon the actual Titanic disaster to predict who survived -- and who did not.
+In this lab, you will use IBM's Watson Studio to create a Jupyter notebook to examine the principles of Spark Machine Learning using the Titanic dataset.   You will build a model to predict who survived -- and who did not.
 
 ## Objectives:
 
 Upon completing the lab, you will know how to:
 
-1. Create a Jupyter IPython notebook from a URL
+1. Create a Jupyter notebook from a URL
 1. Load data from a URL
 1. Examine the data in PixieDust
 1. Examine and shape the data for use in an ML model
