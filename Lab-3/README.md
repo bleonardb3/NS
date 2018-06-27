@@ -30,7 +30,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/NS/blob/master/Lab-3/Images/New%20Notebook.png"/>
+> <img src="https://github.com/bleonardb3/NS/blob/master/Lab-3/images/New%20Notebook.png"/>
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Machine Learning with SparkML` and optionally you can give it a description.
