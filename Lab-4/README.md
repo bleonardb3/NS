@@ -13,7 +13,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 1. Please click on the link below and then press the `Download` button to download the instructions to your machine
 
-[Instructions](https://github.com/bleonardb3/NS/blob/master/Lab-4/Data%20Refinery%20Lab.pdf).
+[Instructions](https://github.com/bleonardb3/NS/blob/master/Lab-4/Data%20Refinery%20Labv2.pdf).
 
 
 
